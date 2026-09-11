@@ -220,7 +220,7 @@ The major categories include:
 
 
 
-| Project | Stars | Description | Primary Strength |
+| Project | Github_Stars | Description | Primary Strength |
 | :--- | :---: | :--- | :--- |
 | [json-server](https://github.com/typicode/json-server) | [![Stars](https://img.shields.io/github/stars/typicode/json-server?style=social&color=white)](https://github.com/typicode/json-server/stargazers) | Fake REST API server backed by a simple JSON file | Instant zero-coding full fake REST API |
 | [Mock Service Worker (MSW)](https://github.com/mswjs/msw) | [![Stars](https://img.shields.io/github/stars/mswjs/msw?style=social&color=white)](https://github.com/mswjs/msw/stargazers) | Seamless client & server API mocking via Service Workers | Native network-level request interception |
