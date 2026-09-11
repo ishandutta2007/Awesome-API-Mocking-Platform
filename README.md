@@ -1,10 +1,21 @@
-# Awesome-API-Mocking-Platform
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome API Mocking Platforms &amp; Mock Servers" width="100%"/>
+</p>
 
-# 🎭 Top API Mocking Platforms & Open-Source Mock Servers
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Mocking-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Mocking-Platform?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Mocking-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-API-Mocking-Platform?style=flat-square&logo=github" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Mocking-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-API-Mocking-Platform?style=flat-square" alt="GitHub Issues"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Mocking-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+# 🎭 Awesome API Mocking Platform: Top API Mocking Platforms & Open-Source Mock Servers
 
+> A comprehensive, SEO-optimized curated list of **API mocking platforms, mock servers, service virtualization tools, contract-driven OpenAPI mocks, and open-source API simulation software** for frontend, backend, QA, and microservice engineering teams. Develop, test, and integrate APIs before production backends are ready.
 
-> A curated list of **API mocking platforms, mock servers, service virtualization tools, contract-driven mocks and open-source API simulation software** for developing, testing and integrating APIs before production backends are available.
 
 
 
@@ -118,61 +129,24 @@ This repository focuses primarily on **open-source and self-hostable API mocking
 
 
 
-# ☁️ SaaS/Hosted Platforms
+# ☁️ SaaS & Hosted API Mocking Platforms
 
+The global API management and service virtualization market is estimated at **$6.2 Billion in 2025** (projected to exceed **$18 Billion by 2032** at a CAGR of ~16.5%); the API simulation and mocking sector is **moderately fragmented**, featuring high-valuation developer-tool giants (Broadcom, SmartBear, Postman) alongside focused, fast-growing agile mock simulation providers (WireMock, Mockoon Cloud, Beeceptor, Apidog).
 
-
-Hosted platforms provide managed mock endpoints, collaborative workflows, browser-based configuration and integrations without requiring teams to operate their own mock infrastructure.
-
-
-
-| Platform                                                              | Company        | Primary Focus                     | Key Capabilities                                                      |
-
-| --------------------------------------------------------------------- | -------------- | --------------------------------- | --------------------------------------------------------------------- |
-
-| [Postman Mock Servers](https://www.postman.com/product/mock-servers/) | Postman        | API development & mocking         | Collection-based mocks, examples, dynamic responses, hosted endpoints |
-
-| [Stoplight Prism](https://stoplight.io/open-source/prism)             | Stoplight      | Contract-driven mocking           | OpenAPI mocks, validation proxy, dynamic responses                    |
-
-| [Mockoon Cloud](https://mockoon.com/cloud/)                           | Mockoon        | Hosted API mocking                | Cloud deployment of Mockoon environments                              |
-
-| [Beeceptor](https://beeceptor.com/)                                   | Beeceptor      | API simulation                    | HTTP, REST, SOAP, gRPC, GraphQL, stateful mocks, chaos                |
-
-| [WireMock Cloud](https://www.wiremock.io/)                            | WireMock       | API simulation                    | Advanced matching, stateful simulation, recording, fault injection    |
-
-| [MockLab](https://www.wiremock.io/)                                   | WireMock       | Cloud API mocking                 | Hosted WireMock simulation                                            |
-
-| [MockAPI](https://mockapi.io/)                                        | MockAPI        | REST API prototyping              | CRUD APIs, generated endpoints, hosted mock data                      |
-
-| [ReqRes](https://reqres.in/)                                          | ReqRes         | Simple API mocking                | Hosted test API and mock endpoints                                    |
-
-| [QuickMocker](https://quickmocker.com/)                               | QuickMocker    | Lightweight API mocking           | Hosted mock endpoints and API prototyping                             |
-
-| [Apidog](https://apidog.com/)                                         | Apidog         | API development                   | API design, testing, mocking and documentation                        |
-
-| [ReadyAPI Virtualization](https://smartbear.com/product/ready-api/)   | SmartBear      | Enterprise virtualization         | Service virtualization, API testing and simulation                    |
-
-| [Mountebank](https://www.mbtest.org/)                                 | Mountebank     | Service virtualization            | Multi-protocol imposters and programmable stubs                       |
-
-| [Microcks](https://microcks.io/)                                      | Microcks       | API mocking & testing             | OpenAPI, AsyncAPI, gRPC, GraphQL, SOAP and event-driven mocks         |
-
-| [MockServer](https://www.mock-server.com/)                            | MockServer     | HTTP/HTTPS mocking                | Request matching, expectations, proxying and verification             |
-
-| [WireMock](https://wiremock.org/)                                     | WireMock       | API simulation                    | HTTP mocking, request matching, recording and fault injection         |
-
-| [Mockoon](https://mockoon.com/)                                       | Mockoon        | Local API mocking                 | Desktop UI, CLI, dynamic templates, proxying and rules                |
-
-| [Hoverfly](https://hoverfly.io/)                                      | SpectoLabs     | Service virtualization            | Simulation, capture/playback and middleware                           |
-
-| [Traffic Parrot](https://trafficparrot.com/)                          | Traffic Parrot | Enterprise service virtualization | REST, SOAP and messaging simulation                                   |
-
-| [Parasoft Virtualize](https://www.parasoft.com/products/virtualize/)  | Parasoft       | Enterprise virtualization         | Complex service and dependency simulation                             |
-
-| [Broadcom DevTest Virtualization](https://www.broadcom.com/)          | Broadcom       | Enterprise service virtualization | REST, SOAP, messaging and legacy-system simulation                    |
-
-
-
-Postman Mock Servers can be created from collections, mocks or request history and match incoming requests against saved examples. Postman also supports private and public hosted mock servers.
+| Platform | Company | Market Valuation / Revenue | Starting Tier Pricing | Free Tier / Trial Limits | Primary Focus | Key Capabilities |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Broadcom DevTest Virtualization](https://www.broadcom.com/) | Broadcom (NASDAQ: AVGO) | ~$750B Valuation (~$51B Rev) | Custom Enterprise Quote (Starting ~$2,500/month/server) | 30-day enterprise evaluation trial (full enterprise features for PoC) | Enterprise service virtualization | Multi-protocol (REST, SOAP, MQ, JMS), legacy system simulation |
+| [Parasoft Virtualize](https://www.parasoft.com/products/virtualize/) | Parasoft | ~$120M Annual Revenue | Starting ~$4,000/year/user seat | 30-day proof-of-concept trial (unrestricted protocols & environment mocking) | Enterprise service virtualization | Environment simulation, test data management, enterprise protocols |
+| [Postman Mock Servers](https://www.postman.com/product/mock-servers/) | Postman | $5.6B Valuation (Series D) | $14/user/month (Basic plan, billed annually) | Free forever: 1,000 mock calls/month, up to 3 team members | API platform & mocking stubs | Collection-based stubs, dynamic responses, cloud endpoints |
+| [ReadyAPI Virtualization](https://smartbear.com/product/ready-api/) | SmartBear Software | ~$1.5B Valuation (Vista Equity) | $1,260/user/year (ReadyAPI Test/Virt) | 14-day full feature trial (complete service virtualization engine) | Enterprise API testing & virtualization | Service virtualization, SOAP/REST/JMS simulation, contract testing |
+| [Apidog](https://apidog.com/) | Apidog | ~$50M Valuation (Growth Stage) | $9/user/month (Basic plan, billed annually) | Free forever: 4 projects, 1,000 mock requests/day, 10 test runs/day | All-in-one API platform | Smart mock data, dynamic responses, visual mocking rules, CI/CD |
+| [WireMock Cloud](https://www.wiremock.io/) | WireMock Inc. | ~$30M Valuation (Seed/Series A) | $49/team/month (Team tier) | Free forever: 3 mock APIs, 100 stubs/API, 50,000 mock requests/month | Cloud API simulation & mocking | Advanced request matching, stateful scenarios, chaos injection, proxy |
+| [Beeceptor](https://beeceptor.com/) | Beeceptor | ~$5M Valuation (Profitable Bootstrapped) | $10/month (Team tier) | Free forever: 5 mock endpoints, 50 requests/day, 50 rules, payload inspection | Instant API simulation & proxy | REST, SOAP, GraphQL, gRPC mocks, stateful CRUD, latency simulation |
+| [Traffic Parrot](https://trafficparrot.com/) | Traffic Parrot | ~$4M Annual Revenue | $399/team/month | 14-day unlimited free trial (includes HTTP, JMS, Kafka, IBM MQ) | Service virtualization for agile teams | Microservices, message queues, JMS, Kafka, gRPC & HTTP simulation |
+| [Mockoon Cloud](https://mockoon.com/cloud/) | Mockoon | ~$3M Valuation (Indie/Open Core) | $10/user/month (Solo Cloud tier) | Free local desktop forever; Cloud: 14-day free trial (5 hosted environments) | Cloud-hosted Mockoon servers | 1-click cloud deployments of Mockoon JSON configs, collaborative stubs |
+| [MockAPI](https://mockapi.io/) | MockAPI | ~$2M Valuation (Bootstrapped) | $5/month (Project tier) | Free forever: 1 project, 2 resources, up to 100 data records | Quick REST API prototyping | Schema generation, relational fake data, CRUD mock endpoints |
+| [QuickMocker](https://quickmocker.com/) | QuickMocker | ~$1.5M Valuation (Bootstrapped) | $12/month (Pro tier) | Free forever: 1 endpoint, 100 requests/day, 1 regex URL pattern | Lightweight online mock server | Webhooks inspection, regular expression URL matching, custom stubs |
+| [ReqRes](https://reqres.in/) | ReqRes | ~$1M Valuation (Indie) | $6/month (Pro custom domain & SLAs) | Free forever: Public hosted API with unlimited reads, fixed mock data | Static hosted test endpoints | Ready-made JSON mock data for fast frontend & mobile prototyping |
 
 
 
@@ -246,39 +220,26 @@ The major categories include:
 
 
 
-| Project                                                      | Description                         | Primary Strength                 |
-
-| ------------------------------------------------------------ | ----------------------------------- | -------------------------------- |
-
-| [WireMock](https://github.com/wiremock/wiremock)             | API mocking and simulation          | Advanced HTTP matching           |
-
-| [MockServer](https://github.com/mock-server/mockserver)      | Programmable HTTP/HTTPS mock server | Expectations and verification    |
-
-| [Mockoon](https://github.com/mockoon/mockoon)                | Desktop + CLI API mocking           | Easy local development           |
-
-| [Microcks](https://github.com/microcks/microcks)             | API mocking and testing platform    | Multi-protocol / contract-driven |
-
-| [Mountebank](https://github.com/bbyars/mountebank)           | Service virtualization              | Multi-protocol imposters         |
-
-| [Hoverfly](https://github.com/SpectoLabs/hoverfly)           | API simulation                      | Capture/playback                 |
-
-| [Prism](https://github.com/stoplightio/prism)                | OpenAPI mock server                 | Contract-driven mocking          |
-
-| [json-server](https://github.com/typicode/json-server)       | Fake REST API server                | Extremely simple REST APIs       |
-
-| [mockd](https://github.com/getmockd/mockd)                   | Multi-protocol mock server          | Single-binary simulation         |
-
-| [Mock Service Worker](https://github.com/mswjs/msw)          | API mocking library                 | Browser / Node.js interception   |
-
-| [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) | .NET implementation of WireMock     | .NET ecosystem                   |
-
-| [Nock](https://github.com/nock/nock)                         | HTTP mocking for Node.js            | Unit/integration tests           |
-
-| [Polly.JS](https://github.com/Netflix/pollyjs)               | HTTP recording/playback             | JavaScript capture/playback      |
-
-| [Pretender](https://github.com/pretenderjs/pretender)        | Browser HTTP mocking                | Frontend development             |
-
-| [Mock Service Worker](https://github.com/mswjs/msw)          | Request interception                | Browser/server testing           |
+| Project | Stars | Description | Primary Strength |
+| :--- | :---: | :--- | :--- |
+| [json-server](https://github.com/typicode/json-server) | [![Stars](https://img.shields.io/github/stars/typicode/json-server?style=social&color=white)](https://github.com/typicode/json-server/stargazers) | Fake REST API server backed by a simple JSON file | Instant zero-coding full fake REST API |
+| [Mock Service Worker (MSW)](https://github.com/mswjs/msw) | [![Stars](https://img.shields.io/github/stars/mswjs/msw?style=social&color=white)](https://github.com/mswjs/msw/stargazers) | Seamless client & server API mocking via Service Workers | Native network-level request interception |
+| [Nock](https://github.com/nock/nock) | [![Stars](https://img.shields.io/github/stars/nock/nock?style=social&color=white)](https://github.com/nock/nock/stargazers) | HTTP server mocking and expectations library for Node.js | Automated unit and integration testing |
+| [Polly.JS](https://github.com/Netflix/pollyjs) | [![Stars](https://img.shields.io/github/stars/Netflix/pollyjs?style=social&color=white)](https://github.com/Netflix/pollyjs/stargazers) | Record, replay, and stub HTTP interactions in JS | Node and browser recording/playback engine |
+| [Mockoon](https://github.com/mockoon/mockoon) | [![Stars](https://img.shields.io/github/stars/mockoon/mockoon?style=social&color=white)](https://github.com/mockoon/mockoon/stargazers) | Cross-platform desktop application + CLI for local mock APIs | Intuitive GUI, dynamic templating & OpenAPI |
+| [WireMock](https://github.com/wiremock/wiremock) | [![Stars](https://img.shields.io/github/stars/wiremock/wiremock?style=social&color=white)](https://github.com/wiremock/wiremock/stargazers) | Industry standard API simulation and mocking tool | Advanced matching, proxying & stateful scenarios |
+| [Requestly](https://github.com/requestly/requestly) | [![Stars](https://img.shields.io/github/stars/requestly/requestly?style=social&color=white)](https://github.com/requestly/requestly/stargazers) | Intercept, modify HTTP/HTTPS requests & mock API responses | Browser extension & desktop network proxy |
+| [Mirage JS](https://github.com/miragejs/miragejs) | [![Stars](https://img.shields.io/github/stars/miragejs/miragejs?style=social&color=white)](https://github.com/miragejs/miragejs/stargazers) | Client-side server simulation library for frontend apps | In-memory database & ORM relationships |
+| [Prism](https://github.com/stoplightio/prism) | [![Stars](https://img.shields.io/github/stars/stoplightio/prism?style=social&color=white)](https://github.com/stoplightio/prism/stargazers) | Contract-driven OpenAPI mock server and validation proxy | Specification enforcement & dynamic payloads |
+| [MockServer](https://github.com/mock-server/mockserver) | [![Stars](https://img.shields.io/github/stars/mock-server/mockserver?style=social&color=white)](https://github.com/mock-server/mockserver/stargazers) | Programmable HTTP and HTTPS mock server & proxy | Comprehensive expectations & request verification |
+| [Moco](https://github.com/dreamhead/moco) | [![Stars](https://img.shields.io/github/stars/dreamhead/moco?style=social&color=white)](https://github.com/dreamhead/moco/stargazers) | Easy-setup stub framework for integration testing | Minimal configuration JSON/API stub server |
+| [Hoverfly](https://github.com/SpectoLabs/hoverfly) | [![Stars](https://img.shields.io/github/stars/SpectoLabs/hoverfly?style=social&color=white)](https://github.com/SpectoLabs/hoverfly/stargazers) | Lightweight service virtualization and capture proxy | High performance capturing & Go middleware |
+| [Mountebank](https://github.com/bbyars/mountebank) | [![Stars](https://img.shields.io/github/stars/bbyars/mountebank?style=social&color=white)](https://github.com/bbyars/mountebank/stargazers) | Multi-protocol service virtualization platform | Polyglot multi-protocol imposters (HTTP, TCP, SMTP) |
+| [Microcks](https://github.com/microcks/microcks) | [![Stars](https://img.shields.io/github/stars/microcks/microcks?style=social&color=white)](https://github.com/microcks/microcks/stargazers) | Cloud-native Kubernetes API mocking & testing platform | Multi-protocol (OpenAPI, AsyncAPI, gRPC, GraphQL) |
+| [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) | [![Stars](https://img.shields.io/github/stars/WireMock-Net/WireMock.Net?style=social&color=white)](https://github.com/WireMock-Net/WireMock.Net/stargazers) | C# .NET implementation of WireMock HTTP service | Native .NET mocking & integration testing |
+| [Smocker](https://github.com/smocker-dev/smocker) | [![Stars](https://img.shields.io/github/stars/smocker-dev/smocker?style=social&color=white)](https://github.com/smocker-dev/smocker/stargazers) | Simple and efficient HTTP mock server and proxy in Go | Web UI, YAML configs & Docker-first testing |
+| [Pretender](https://github.com/pretenderjs/pretender) | [![Stars](https://img.shields.io/github/stars/pretenderjs/pretender?style=social&color=white)](https://github.com/pretenderjs/pretender/stargazers) | JavaScript library to mock XMLHttpRequest & Fetch | Ultra-lightweight in-browser mocking |
+| [mockd](https://github.com/getmockd/mockd) | [![Stars](https://img.shields.io/github/stars/getmockd/mockd?style=social&color=white)](https://github.com/getmockd/mockd/stargazers) | Multi-protocol mock server written in Go | Single binary REST, SOAP, gRPC & WebSockets |
 
 
 
@@ -2562,6 +2523,15 @@ consider giving this repository a ⭐ **Star** and contributing new projects.
 
 ---
 
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-API-Mocking-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-API-Mocking-Platform&type=date&legend=top-left)
+
+
+
+---
+
 
 
 **Last updated: September 2026**
+
